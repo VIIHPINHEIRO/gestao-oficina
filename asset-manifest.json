@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gestao-oficina/static/css/main.4b0bdc48.css",
+    "main.js": "/gestao-oficina/static/js/main.31ed01a9.js",
+    "index.html": "/gestao-oficina/index.html",
+    "main.4b0bdc48.css.map": "/gestao-oficina/static/css/main.4b0bdc48.css.map",
+    "main.31ed01a9.js.map": "/gestao-oficina/static/js/main.31ed01a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b0bdc48.css",
+    "static/js/main.31ed01a9.js"
+  ]
+}
